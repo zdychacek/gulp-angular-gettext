@@ -1,5 +1,5 @@
 {
-  "name": "gulp-angular-gettext",
+  "name": "sklik-gulp-angular-gettext",
   "version": "2.2.0",
   "description": "Gulp plugin for extracting/compiling angular-gettext strings",
   "license": "MIT",
