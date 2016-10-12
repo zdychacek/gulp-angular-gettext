@@ -28,7 +28,7 @@
   "dependencies": {
     "through2": "^2.0.1",
     "gulp-util": "^3.0.7",
-    "sklik-angular-gettext-tools": "^2.2.0",
+    "sklik-angular-gettext-tools": "^3.0.0",
     "lodash.isstring": "^4.0.1"
   },
   "devDependencies": {
