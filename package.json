@@ -1,6 +1,6 @@
 {
   "name": "sklik-gulp-angular-gettext",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Gulp plugin for extracting/compiling angular-gettext strings",
   "license": "MIT",
   "repository": "gabegorelick/gulp-angular-gettext",
